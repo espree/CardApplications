@@ -26,7 +26,6 @@ class DeckOfCardsWorkout:
         elif (card[1] == "cards"):
             print(card[0] + " " + card[1] + " remaining")
         else:
-            print(card[1])
             print("Invalid output")
 
 #Driver method
